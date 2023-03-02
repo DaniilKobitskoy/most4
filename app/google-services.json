@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960841273824",
+    "project_id": "regal-eon-378521",
+    "storage_bucket": "regal-eon-378521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960841273824:android:64c19db85418aae1531b85",
+        "android_client_info": {
+          "package_name": "com.app.bet.stav.game.calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960841273824-nme7mg8isuinke9gsm5g8mvjtvnupd08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq1ngogBneHy1FyO-JfnROvjNRoyHIDhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960841273824-nme7mg8isuinke9gsm5g8mvjtvnupd08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
